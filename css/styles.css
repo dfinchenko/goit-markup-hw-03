@@ -221,6 +221,7 @@ address {
 }
 .section-solutions {
   padding: 60px 0;
+  padding-bottom: 120px;
 }
 .solutions-list {
   display: flex;
